@@ -53,12 +53,18 @@ Sistem IoT berbasis ESP-01 umumnya menggunakan perintah AT untuk dapat melakukan
 ## Rancangan Proyek
 <table>
 <tr>
-<th width="420">Diagram Blok</th>
-<th width="420">Infrastruktur</th>
+<th width="840">Infrastruktur</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Diagram Blok</th>
 </tr>
 <tr>
 <td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
-<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
 </tr>
 </table>
 <table>

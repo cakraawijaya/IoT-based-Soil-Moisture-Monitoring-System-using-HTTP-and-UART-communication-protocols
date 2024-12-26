@@ -53,12 +53,18 @@ ESP-01-based IoT systems generally use AT commands to be able to perform actions
 ## Project Designs
 <table>
 <tr>
-<th width="420">Block Diagram</th>
-<th width="420">Infrastructure</th>
+<th width="840">Infrastructure</th>
+</tr>
+<tr>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Block Diagram</th>
 </tr>
 <tr>
 <td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
-<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
 </tr>
 </table>
 <table>
