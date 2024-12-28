@@ -229,17 +229,27 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
    
    • Kode program yang telah tertanam dalam ``` board ESP-01 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
    
-   • Lepaskan ``` ESP-01 ``` dari ``` USB CH340-ESP01 ```. Lakukan pemasangan kabel seperti yang ditunjukkan dalam diagram ilustrasi.<br><br><br>
+   • Lepaskan ``` ESP-01 ``` dari ``` USB CH340-ESP01 ```. Lakukan pemasangan kabel seperti yang ditunjukkan dalam diagram ilustrasi.
 
-<strong>Catatan :</strong>
+<br><br>
 
-<table><tr><td width="840">
+<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Catatan :</h3>
+<blockquote>
+   <ul>
+   <li>
+   
+   Untuk mengunggah program, selain menggunakan ``` USB CH340-ESP01 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB FTDI ```, atau dengan ``` USB PL2303 ```.
+   
+   </li>
+   <li>
+   
+   Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB CH340-ESP01 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena tidak membutuhkan kabel untuk dapat terhubung ke komputer/laptop.
+   
+   </li>
+   </ul>
+</blockquote>
 
-   • Untuk mengunggah program, selain menggunakan ``` USB CH340-ESP01 ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` USB CP2102 ```, ``` USB CH340 ```, ``` USB FTDI ```, atau dengan ``` USB PL2303 ```.
-
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` USB CH340-ESP01 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena tidak membutuhkan kabel untuk dapat terhubung ke komputer/laptop.
-
-</td></tr></table><br><br>
+<br><br>
 
 ## Pengaturan Ubidots
 1. Memulai Ubidots : 

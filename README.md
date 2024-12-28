@@ -229,17 +229,27 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
    • The program code that has been embedded in this ``` ESP-01 board ``` is ready for operation (no more programming activities).
 
-   • Release the ``` ESP-01 ``` from the ``` CH340-ESP01 USB ```. Do the wiring as shown in the pictorial diagram.<br><br><br>
+   • Release the ``` ESP-01 ``` from the ``` CH340-ESP01 USB ```. Do the wiring as shown in the pictorial diagram.
 
-<strong>Notes :</strong>
+<br><br>
 
-<table><tr><td width="840">
+<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes :</h3>
+<blockquote>
+   <ul>
+   <li>
    
-   • To upload the program, besides using the ``` CH340-ESP01 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, ``` FTDI USB ```, or with ``` PL2303 USB ```.
+   To upload the program, besides using the ``` CH340-ESP01 USB ```, you can also use other programming tools such as: ``` CP2102 USB ```, ``` CH340 USB ```, ``` FTDI USB ```, or with ``` PL2303 USB ```.
+   
+   </li>
+   <li>
+   
+   Based on experience, I admit that using the ``` CH340-ESP01 USB ``` is much better than other programming tools because it does not require a cable to be connected to a computer/laptop.
+   
+   </li>
+   </ul>
+</blockquote>
 
-   • Based on experience, I admit that using the ``` CH340-ESP01 USB ``` is much better than other programming tools because it does not require a cable to be connected to a computer/laptop.
-
-</td></tr></table><br><br>
+<br><br>
 
 ## Ubidots Setup
 1. Getting started with Ubidots :
