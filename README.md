@@ -43,7 +43,7 @@ ESP-01-based IoT systems generally use AT commands to be able to perform actions
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/CH340_USB_Driver
+   https://bit.ly/CH340_USBdriver
    ```
    
    </td></tr></table>
