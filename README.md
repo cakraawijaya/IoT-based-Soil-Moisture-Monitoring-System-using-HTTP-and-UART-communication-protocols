@@ -128,7 +128,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       </th></tr>
       <tr><td colspan="2">
 
-      Selecting a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
+      Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
               
       </td></tr>
    </table><br><table>
