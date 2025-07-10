@@ -262,27 +262,13 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
 
-2. Membuat devices : 
+2. Membuat dashboards : 
 
    <table><tr><td width="810">
    
-      • Setelah masuk ke dalam akun -> klik ``` Devices ```.
+      • Pada bagian ``` Data ``` -> pilih menu ``` Dashboards ```.
    
-      • Klik ``` + (Create a device) ``` -> lalu pilih ``` Blank Device ```.
-   
-      • ``` Device name ``` sesuaikan dengan kebutuhan anda.
-
-      • ``` Device label ``` sesuaikan dengan apa yang ada di Ubidots sewaktu berhasil mengirim data pertama kali, dalam hal ini biasanya akan berbentuk ID.
-
-      • Pilih ``` ✅ Checklist ``` untuk menyimpan.
-
-   </td></tr></table><br>
-
-3. Membuat dashboards : 
-
-   <table><tr><td width="810">
-   
-      • Klik ``` Data ``` -> lalu pilih ``` Dashboards ```.
+      • Hapus dasbor demo bawaan Ubidots sebelum membuat dasbor baru.
    
       • Klik ``` Add new Dashboard ```.
    
@@ -296,7 +282,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
 
-4. Membuat widget : 
+3. Membuat widget : 
 
    <table><tr><td width="810">
    
@@ -312,11 +298,11 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
 
-5. Konfigurasi firmware : 
+4. Konfigurasi firmware : 
 
    <table><tr><td width="810">
    
-      • Klik bagian ``` User ``` yang ada di pojok kanan atas -> lalu pilih ``` API Credentials ```.
+      • Klik bagian ``` User ``` yang ada di pojok kiri bawah -> lalu pilih ``` API Credentials ```.
    
       • Salin ``` Default token ``` -> lalu tempelkan pada kode firmware. Contohnya sebagai berikut:
 
