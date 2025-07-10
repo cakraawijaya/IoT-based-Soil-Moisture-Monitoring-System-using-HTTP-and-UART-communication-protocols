@@ -262,7 +262,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
    </td></tr></table><br>
 
-2. Membuat dashboards : 
+2. Membuat dasbor :
 
    <table><tr><td width="810">
    
