@@ -292,7 +292,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
       • Please choose according to your needs. In this project, the author uses ``` Line chart ``` for data visualization.
    
-      • Please set the variables that you want to display on the widget by clicking ``` + ADD VARIABLE ```, then click ``` ✅ Checklist ``` to save.
+      • Please set the variables that you want to use on the widget by clicking ``` + ADD VARIABLE ```, then click ``` ✅ Checklist ``` to save.
    
       • If you want to change the content of the widget, please click the ``` pencil ``` symbol -> if so, then click ``` ✅ Checklist ``` to save.
 
