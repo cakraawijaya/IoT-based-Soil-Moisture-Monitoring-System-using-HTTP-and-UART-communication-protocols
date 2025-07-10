@@ -292,7 +292,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
    
       • Silakan pilih sesuai dengan kebutuhan anda. Kalau di proyek ini, penulis menggunakan ``` Line chart ``` untuk visualisasi datanya.
    
-      • Silakan atur variabel yang ingin ditampilkan pada widget yaitu dengan cara klik ``` + ADD VARIABLE ```, kemudian klik ``` ✅ Checklist ``` untuk menyimpan.
+      • Silakan atur variabel yang ingin anda gunakan pada widget yaitu dengan cara klik ``` + ADD VARIABLE ```, kemudian klik ``` ✅ Checklist ``` untuk menyimpan.
    
       • Jika ingin mengubah isi widget, silakan klik simbol ``` pensil ``` -> jika sudah, kemudian klik ``` ✅ Checklist ``` untuk menyimpan.
 
