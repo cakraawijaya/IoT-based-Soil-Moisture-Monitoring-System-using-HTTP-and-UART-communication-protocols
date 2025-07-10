@@ -262,27 +262,13 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-2. Creating devices : 
+2. Creating dashboards : 
 
    <table><tr><td width="810">
    
-      • After logging into the account -> click ``` Devices ```.
+      • In the ``` Data ``` section -> select ``` Dashboards ``` menu.
    
-      • Click ``` + (Create a device) ``` -> then select ``` Blank Device ```.
-   
-      • ``` Device name ``` customize according to your needs.
-
-      • ``` Device label ``` customize what was on Ubidots when it successfully sent the data the first time, in which case it will usually be an ID.
-
-      • Select ``` ✅ Checklist ``` to save.
-
-   </td></tr></table><br>
-
-3. Creating dashboards : 
-
-   <table><tr><td width="810">
-   
-      • Click ``` Data ``` -> then select ``` Dashboards ```.
+      • Delete the Ubidots built-in demo dashboard before creating a new dashboard.
    
       • Click ``` Add new Dashboard ```.
    
@@ -296,7 +282,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-4. Creating widget : 
+3. Creating widget : 
 
    <table><tr><td width="810">
    
@@ -306,17 +292,17 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
       • Please choose according to your needs. In this project, the author uses ``` Line chart ``` for data visualization.
    
-      • Please set the variables that you want to display on the widget by clicking ``` + Add Variables ```, then click ``` ✅ Checklist ``` to save.
+      • Please set the variables that you want to display on the widget by clicking ``` + ADD VARIABLE ```, then click ``` ✅ Checklist ``` to save.
    
       • If you want to change the content of the widget, please click the ``` pencil ``` symbol -> if so, then click ``` ✅ Checklist ``` to save.
 
    </td></tr></table><br>
 
-5. Firmware configuration : 
+4. Firmware configuration : 
 
    <table><tr><td width="810">
    
-      • Click the ``` User ``` section in the top right corner -> then select ``` API Credentials ```.
+      • Click the ``` User ``` section in the bottom left corner -> then select ``` API Credentials ```.
    
       • Copy the ``` Default token ``` -> paste it into the firmware code. An example is as follows:
 
