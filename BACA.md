@@ -126,7 +126,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       Cara mengatur board ``` Arduino Uno ```
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       Pilih papan dengan mengklik: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
               
@@ -141,7 +141,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       Cara mengatur board ``` ESP-01 ```
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       • Klik bagian ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Instal ``` esp8266 ```.
 
@@ -162,7 +162,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       Cara mengubah kecepatan board ``` Arduino Uno ```
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       Klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
               
@@ -177,7 +177,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
       Cara mengubah kecepatan board ``` ESP-01 ```
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       Klik ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
             
