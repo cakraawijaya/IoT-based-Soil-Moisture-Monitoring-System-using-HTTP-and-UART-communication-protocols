@@ -126,7 +126,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` Arduino Uno ``` board
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       Select a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` Arduino AVR Boards ``` -> ``` Arduino Uno ```
               
@@ -141,7 +141,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` ESP-01 ``` board
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       • Click ``` Tools ``` section -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` esp8266 ```.
 
@@ -162,7 +162,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to change the speed of ``` Arduino Uno ``` board
    
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="780">
 
       Click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
               
@@ -177,7 +177,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to change the speed of ``` ESP-01 ``` board
             
       </th></tr>
-      <tr><td colspan="2">
+      <tr><td colspan="2" width="775">
 
       Click ``` Tools ``` -> ``` Upload Speed ``` -> ``` 9600 ```
             
