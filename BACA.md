@@ -5,7 +5,7 @@
 ![Project2](https://img.shields.io/badge/Project-%2D2-ESP-%2D01-light.svg?style=flat&logo=espressif&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# IoT-based-Soil-Moisture-Monitoring-System-using-HTTP-and-UART-communication-protocols
+# IoT-based Soil Moisture Monitoring System using HTTP and UART communication protocols
 Sistem IoT berbasis ESP-01 umumnya menggunakan perintah AT untuk dapat melakukan tindakan dalam suatu jaringan. Perintah AT ini diketahui ada banyak. Selain itu, kombinasi perintah yang ada sulit untuk dimengerti bagi seorang pemula. Oleh karena itu, proyek ini dibuat untuk meningkatkan kenyamanan pada sistem IoT berbasis ESP-01. Dalam hal ini, penulis menggunakan protokol UART di sisi papan pengembangan. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 2 minggu. Ada 2 jenis papan pengembangan yang dipakai. Arduino Uno R3 dipakai untuk mengambil data kelembaban tanah dari sensor yang kemudian dikirim ke ESP-01 melalui komunikasi UART: Software Serial. Sementara itu, ESP-01 digunakan untuk menerima data dari Arduino Uno melalui komunikasi UART: Hardware Serial dan kemudian mengirim data ke Ubidots melalui protokol HTTP.
 
 <br><br>
