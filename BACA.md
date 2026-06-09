@@ -21,7 +21,7 @@ Sistem IoT berbasis ESP-01 umumnya menggunakan perintah AT untuk dapat melakukan
 | Protokol Komunikasi | • Hypertext Transfer Protocol (HTTP)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
-| Pustaka Arduino | • SoftwareSerial (default)<br>• Ubidots-ESP8266 |
+| Pustaka Arduino | • SoftwareSerial (default)<br>• Ubidots-ESP8266 oleh Jose Garcia (Versi: 3.1.0) |
 | Sensor | Sensor Kelembaban Tanah Kapasitif (x1) |
 | Komponen Lainnya | • Kabel USB tipe B - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Adapter ESP-01 (x1) |
 
