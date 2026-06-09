@@ -14,7 +14,7 @@ ESP-01-based IoT systems generally use AT commands to be able to perform actions
 | Part | Description |
 | --- | --- |
 | Development Board | • Arduino Uno R3<br>• ESP-01 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Programmer Tools | CH340-ESP01 USB |
 | Driver | CH340 USB Driver |
 | IoT Platform | Ubidots |
