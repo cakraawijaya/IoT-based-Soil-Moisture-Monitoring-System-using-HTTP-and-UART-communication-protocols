@@ -21,7 +21,7 @@ ESP-01-based IoT systems generally use AT commands to be able to perform actions
 | Communications Protocol | • Hypertext Transfer Protocol (HTTP)<br>• Universal Asynchronous Receiver-Transmitter (UART) |
 | IoT Architecture | 3 Layer |
 | Programming Language | C/C++ |
-| Arduino Library | • SoftwareSerial (default)<br>• Ubidots-ESP8266 |
+| Arduino Library | • SoftwareSerial (default)<br>• Ubidots-ESP8266 by Jose Garcia (Version: 3.1.0) |
 | Sensor | Capacitive Soil Moisture Sensor (x1) |
 | Other Components | • USB type B cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• ESP-01 Adapter (x1) |
 
