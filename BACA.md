@@ -14,7 +14,7 @@ Sistem IoT berbasis ESP-01 umumnya menggunakan perintah AT untuk dapat melakukan
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | • Arduino Uno R3<br>• ESP-01 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Alat Pemrogram | USB CH340-ESP01 |
 | Driver | CH340 USB Driver |
 | Platform IoT | Ubidots |
